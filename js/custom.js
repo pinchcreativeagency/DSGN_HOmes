@@ -1,3 +1,5 @@
+
+
 $(function() {
     "use strict";
     
@@ -327,5 +329,3 @@ Pace.on('done', function () {
     $('#preloader').addClass("isdone");
     $('.loading-text').addClass("isdone");
 });
-
-
